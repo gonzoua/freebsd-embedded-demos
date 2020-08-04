@@ -16,3 +16,4 @@ jobs:
           uname -a
           pwd
           make
+          date
