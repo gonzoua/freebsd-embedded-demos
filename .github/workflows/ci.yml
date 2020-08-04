@@ -15,5 +15,7 @@ jobs:
       run: |
           uname -a
           pwd
+          ls -la
+          find .
           make
           date
